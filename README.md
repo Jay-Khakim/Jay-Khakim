@@ -17,14 +17,14 @@
     <a href="https://www.instagram.com/jay_khakim/?hl=en">Instagram</a>
 </p>
 <p align="center">
-  <h4 align="center" style="max-width: 600;">I am Jay, a backend developer, currently living in South Korea.</h4>
+  <h4 align="center" style="max-width: 600;">I am Jay, a backend developer living in South Korea.</h4>
 </p>
 
 ### ⚡Favorite Tech Stack
 
 > Tools, languages, and other things that I like to work with.
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,bootstrap,tailwind,sass,materialui,nodejs,express,firebase,mongodb,graphql,supabase,git,notion,figma,postman,vite" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,bootstrap,tailwind,sass,materialui,express,firebase,mongodb,graphql,postgres,supabase,vue, git,notion,figma,postman,vite,apollo,aws,docker,php,laravel,notion,threejs " />
 
 
 ### Stats
