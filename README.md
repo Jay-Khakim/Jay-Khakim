@@ -17,7 +17,7 @@
     <a href="https://www.instagram.com/jay_khakim/?hl=en">Instagram</a>
 </p>
 <p align="center">
-  <h4 align="center" style="max-width: 600;">I am Jay, a backend developer <br />, currently living in South Korea.</h4>
+  <h4 align="center" style="max-width: 600;">I am Jay, a backend developer, currently living in South Korea.</h4>
 </p>
 
 ### ⚡Favorite Tech Stack
