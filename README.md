@@ -31,7 +31,7 @@
 
 <table>
 
-|![](https://github-readme-streak-stats.herokuapp.com?user=Jay-Khakim&theme=Javascript&hide_border=true&border_radius=10&background=F7F7F7F9&ring=2192FF&fire=FBDF07&sideNums=2192FF&currStreakNum=FBDF07)  | ![](https://github-readme-stats.vercel.app/api?username=iamalaziz&show_icons=true&theme=transparent)  |
+|![](https://github-readme-streak-stats.herokuapp.com?user=Jay-Khakim&theme=Javascript&hide_border=true&border_radius=10&background=F7F7F7F9&ring=2192FF&fire=FBDF07&sideNums=2192FF&currStreakNum=FBDF07)  | ![](https://github-readme-stats.vercel.app/api?username=Jay-Khakim&show_icons=true&theme=transparent)  |
 |-|-|
 
 
