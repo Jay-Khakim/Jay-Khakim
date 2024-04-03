@@ -1,4 +1,4 @@
-<img alt="Portfolio banner" src="![image_2024-04-04_08-13-33](https://github.com/Jay-Khakim/Jay-Khakim/assets/68965155/2d39c657-aafb-48c4-b408-93ae4a8fe406)">
+<img alt="Portfolio banner" src="https://github.com/Jay-Khakim/Jay-Khakim/assets/68965155/2d39c657-aafb-48c4-b408-93ae4a8fe406">
 <br />
 <div align="center">
   <blockquote align="right">Open  For New Opportunities!</blockquote>
