@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <h1 align="center">Backend Web-Developer</h1>
+  <h1 align="center">Backend Developer</h1>
 </p>
 <p align="center">
     <a href="https://portfolio-web-ochre-two.vercel.app/" target="_blank">Portfolio</a>
