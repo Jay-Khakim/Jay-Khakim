@@ -26,6 +26,7 @@
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,bootstrap,tailwind,sass,materialui,express,firebase,mongodb,graphql,postgres,supabase,vue,git,notion,figma,postman,vite,apollo,aws,docker,php,laravel,notion,threejs" />
 
+![](https://komarev.com/ghpvc/?username=Jay-Khakim&color=blue)
 
 ### Stats
 
